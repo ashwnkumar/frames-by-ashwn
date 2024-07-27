@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #dde6ed;
+  font-family: "League Spartan", sans-serif;
+}
+
+#header {
+  font-family: "Protest Revolution", "League Spartan", sans-serif;
+}
